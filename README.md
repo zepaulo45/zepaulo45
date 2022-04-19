@@ -1,4 +1,10 @@
 ## Olá,  eu sou o Jose Paulo, 👋 desenvolvedor de Soluções em Tecnologia!
+
+[![Blog](https://img.shields.io/website?label=Hox.com.br&style=for-the-badge&url=https://hox.com.br/)](https://hox.com.br)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/agenciahox)
+[![Instagram](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ze45ster@gmail.com)
+[![Instagram](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josepaulosouza)
+
 <div align="center">
   <a href="https://github.com/zepaulo45">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zepaulo45&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
